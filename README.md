@@ -44,6 +44,15 @@ QuickBite Express's crisis-period performance highlights a demand and trust brea
 
 ![Dashboard](https://raw.githubusercontent.com/bhawna407/Crisis-in-Quick-Bites-Food-Startup-/main/image/quick%20bites%20pbix%201.png)
 
+**City-Wise Performance**
+
+- **Bengaluru and Mumbai are the biggest revenue-at-risk markets** — both lost ~70% of orders (Bengaluru: 31.3K→9.3K, Mumbai: 17.8K→5.3K) and saw cancellation spike >110%, the steepest CX degradation in the portfolio.
+- **Delhi is the relative bright spot** — lowest cancellation increase (69.6% vs 90-116% elsewhere) despite a similar order drop (-69.8%), suggesting stronger ops resilience there.
+- **Hyderabad and Chennai have a delivery-speed crisis, not a volume crisis** — highest delivery delays (~18 min) despite smaller order bases; this is dragging ratings down independently of demand loss.
+- **Kolkata is the standout performer** — best pre-crisis and crisis performance index (0.23), and lowest cancellation among high-delay cities — worth benchmarking its ops playbook against Bengaluru/Mumbai.
+- **Rating decline is uniform (~44%) across all cities** — this isn't a city-specific issue, it's systemic (points back to the food-safety/outage root cause, not local execution).
+- **Key takeaway for PM:** Fix delivery SLA in Hyderabad/Chennai and cancellation control in Bengaluru/Mumbai first — these two levers cover the highest-revenue-impact markets.
+
 ![Dashboard](https://github.com/bhawna407/Crisis-in-Quick-Bites-Food-Startup-/blob/main/image/quick%20bites%20pbix%203.png)
 
 ![Dashboard](https://github.com/bhawna407/Crisis-in-Quick-Bites-Food-Startup-/blob/main/image/quick%20bites%20pbix%204.png)
