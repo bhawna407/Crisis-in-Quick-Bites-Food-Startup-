@@ -34,8 +34,9 @@ Targeted SQL Queries for deeper analysis can be found [HERE].
 
 **Data Structure & Initial Checks** Quick Bites’ database structure, as illustrated in the model view, consists of 6 tables: Dim_Hotels, Fact_Bookings, Dim_Date, Dim_Rooms, Fact_Aggregated_Bookings, Dim_Customers, with a total row count of 508,627 records.
 
+Executive Summary
 
-
+Overview of Findings
 
 ![Dashboard](https://raw.githubusercontent.com/bhawna407/Crisis-in-Quick-Bites-Food-Startup-/main/image/quick%20bites%20pbix%201.png)
 ![Dashboard](https://raw.githubusercontent.com/bhawna407/Crisis-in-Quick-Bites-Food-Startup-/main/image/quick%20bites%20pbix%201.png)
