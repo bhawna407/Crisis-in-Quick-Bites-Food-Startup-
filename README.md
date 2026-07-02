@@ -1,5 +1,7 @@
 **QuickBite Express — Crisis Overview Report**
+
 **Project Background**
+
 QuickBite Express is a Bengaluru-based food-tech startup (founded 2020) operating a two-sided marketplace connecting customers with restaurants and cloud kitchens. In June 2025, a viral social media exposé on food-safety violations at partner restaurants, compounded by a week-long delivery outage during monsoon season, triggered a severe trust collapse. Competitors moved in aggressively during the vacuum, accelerating customer and restaurant-partner attrition. Fallout included mass user disengagement, sharp order decline, falling CSAT, restaurant-partner churn to competing platforms, and rising CAC. QuickBite has since committed a recovery budget, overhauled food-safety protocols, and upgraded delivery infra — this report tracks the crisis-phase impact (Jun–Sep) vs pre-crisis baseline (Jan–May).
 
  **Key Insights**
