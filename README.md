@@ -86,26 +86,8 @@ QuickBite Express's crisis-period performance highlights a demand and trust brea
 - **SLA-Not-Met and Negative-Review% move together from June onward** (both jump to ~85-95%) — direct proof that delivery failure is driving review sentiment, not a coincidental overlap. This is your causal chain: SLA miss → negative review → rating drop → churn.
 - **PM action:** Delivery capacity/partner-fleet expansion in Delhi and Hyderabad is the highest-leverage fix — SLA recovery here should be tracked as the #1 leading indicator for recovery, ahead of revenue or orders.
 
----
-
-**Feedback & Sentiment Analysis**
-
-- **Sentiment collapsed 133% faster than rating dropped 44.5%** (0.75→-0.25 vs 4.50→2.50) — sentiment (free-text reviews) is capturing dissatisfaction that the 5-star rating scale compresses/hides. Use sentiment score as the primary early-warning metric going forward, not star rating.
-- **81% of reviews are now Negative** (only 15% Positive) — this is a near-total sentiment inversion from a presumably healthy pre-crisis mix, confirming brand trust damage is broad-based, not a vocal-minority effect.
-- **"Terrible hygiene" reviews carry the worst score (-0.90 sentiment, 1.20 rating)** — hygiene/food-safety complaints are the most damaging review category, directly tied to the original viral incident — this is the #1 reputation risk to resolve publicly.
 
 ![Dashboard](https://github.com/bhawna407/Crisis-in-Quick-Bites-Food-Startup-/blob/main/image/quick%20bites%20pbix%206.png)
-
-**Delivery Operations & SLA — Key Insights**
-
-- **This is the smoking gun for the entire crisis** — SLA compliance cratered from 47%→12% in a single month (May→June: -89%), and it hasn't recovered in 4 months. This is the root-cause metric everything else (cancellations, ratings, churn) traces back to.
-- **87.8% of all crisis-phase deliveries were late**, and 68% of those were late by 10+ minutes — this isn't marginal SLA slippage, it's systemic capacity failure (matches the outage narrative from the crisis brief).
-- **Delay severity is compounding, not flat** — the 20+ min delay bucket (6.4K orders) is nearly 4x the 0-5 min bucket (1.7K), meaning most delayed orders aren't "slightly late," they're badly late — the worst-case bucket, not the edge case.
-- **Delhi and Hyderabad have the highest order delay (~18 min)** — consistent with the City page finding, confirming these two markets need dedicated ops intervention, not portfolio-wide fixes.
-- **SLA-Not-Met and Negative-Review% move together from June onward** (both jump to ~85-95%) — direct proof that delivery failure is driving review sentiment, not a coincidental overlap. This is your causal chain: SLA miss → negative review → rating drop → churn.
-- **PM action:** Delivery capacity/partner-fleet expansion in Delhi and Hyderabad is the highest-leverage fix — SLA recovery here should be tracked as the #1 leading indicator for recovery, ahead of revenue or orders.
-
----
 
 **Feedback & Sentiment Analysis**
 
