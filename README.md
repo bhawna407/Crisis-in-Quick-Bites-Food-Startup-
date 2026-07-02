@@ -55,6 +55,15 @@ QuickBite Express's crisis-period performance highlights a demand and trust brea
 
 ![Dashboard](https://github.com/bhawna407/Crisis-in-Quick-Bites-Food-Startup-/blob/main/image/quick%20bites%20pbix%203.png)
 
+   **Restaurant-Level Impact**
+
+- **Urban Kitchen Zone is the worst hit — order volume down 85.1%** (67→10), yet its sentiment drop (-133%) is mid-pack, suggesting delisting risk or partner-side supply issue rather than pure demand collapse — worth a partner-health check.
+- **Flavours of Tandoor Central has the steepest rating decline (-50.2%)** paired with -84.4% order drop — this combo signals active customer avoidance, not just reduced discovery/traffic.
+- **Hot & Crispy Kitchen Clouds shows the sharpest sentiment collapse (-141%)** despite a comparatively milder order drop (-54.0%) — sentiment is leading orders down here; expect further order erosion next cycle if unaddressed.
+- **Sentiment decline (-109% to -153%) consistently outpaces rating decline (-36% to -51%)** across all 15 restaurants — sentiment score is capturing dissatisfaction (reviews/complaints) that star ratings alone understate; use sentiment as the earlier churn signal.
+- **No restaurant in the top-15 improved on any metric** — this is portfolio-wide brand damage, not isolated bad actors; food-safety incident is likely suppressing trust at the platform level, not restaurant level.
+- **PM action:** Segment these 15 into "recoverable" (moderate order drop + moderate sentiment) vs "at-risk" (Urban Kitchen Zone, Flavours of Tandoor Central) for differentiated win-back — blanket promos won't fix trust-driven churn.
+
 ![Dashboard](https://github.com/bhawna407/Crisis-in-Quick-Bites-Food-Startup-/blob/main/image/quick%20bites%20pbix%204.png)
 
 ![Dashboard](https://github.com/bhawna407/Crisis-in-Quick-Bites-Food-Startup-/blob/main/image/quick%20bites%20pbix%205.png)
