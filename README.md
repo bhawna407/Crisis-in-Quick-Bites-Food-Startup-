@@ -66,6 +66,15 @@ QuickBite Express's crisis-period performance highlights a demand and trust brea
 
 ![Dashboard](https://github.com/bhawna407/Crisis-in-Quick-Bites-Food-Startup-/blob/main/image/quick%20bites%20pbix%204.png)
 
+**Customer Behaviour & Loyalty**
+
+- **Loyalty base collapsed harder than the overall user base** — only 37% of loyal customers retained (58→26), a steeper decline than the 62.7% overall churn rate. This is your highest-LTV segment eroding fastest — retention curve is inverted from what you'd want.
+- **Low-value customer segment absorbed the heaviest churn** — dropped from 72K→25K (-65%), while Value-Sensitive (mid-spend) fell 12K→6K (-50%) and High-Value customers effectively hit zero. High-value cohort disappearing entirely is the most alarming AOV-mix signal here.
+- **Mid-to-low value order mix shifted post-crisis** — Low-Value order share rose (46.0%→49.5%) while Mid-Value share fell (50.6%→47.3%), meaning surviving customers are trading down — basket-value compression compounding the volume loss.
+- **New customer acquisition essentially flatlined** — repeat/new split stayed ~99.8% loyal-dominant pre-crisis, but from June onward "New" customers jumped to ~45-54% of the mix. This isn't organic growth — it reads as loyal-base replacement, not expansion, meaning CAC is being spent to backfill churn, not grow the funnel.
+- **High-value order decline is cuisine-concentrated** — North Indian and Chinese categories show the steepest order drop-offs (up to -600 to -800% band) across nearly every city, especially Ahmedabad, Bengaluru, and Hyderabad — points to a specific category-level trust or quality issue, not a platform-wide uniform decline.
+- **PM action:** Prioritize a loyalty win-back for the 32 lost loyal customers (58→26) with targeted incentives before broad-based reacquisition spend — reacquiring in this environment (2.50 avg rating, 12.2% SLA) risks high CAC with low retention payback until trust metrics recover.
+
 ![Dashboard](https://github.com/bhawna407/Crisis-in-Quick-Bites-Food-Startup-/blob/main/image/quick%20bites%20pbix%205.png)
 
 ![Dashboard](https://github.com/bhawna407/Crisis-in-Quick-Bites-Food-Startup-/blob/main/image/quick%20bites%20pbix%206.png)
