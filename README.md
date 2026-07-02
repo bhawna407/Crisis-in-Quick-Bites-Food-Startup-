@@ -24,6 +24,16 @@ QuickBite Express is a Bengaluru-based food-tech startup (founded 2020) operatin
 6. Track CAC trend against the recovery budget spend to confirm reacquisition efficiency isn't worsening the cost problem
 7. Monitor Sep's uptick on a weekly (not monthly) cadence before signaling recovery to stakeholders
 
+An interactive Power BI Dashboard (as shown in the screenshots) can be downloaded [HERE].
+
+The SQL Queries utilized for inspection and validation can be found [HERE].
+
+SQL Queries used for cleaning and transformation can be found [HERE].
+
+Targeted SQL Queries for deeper analysis can be found [HERE].
+
+
+
 
 
 
