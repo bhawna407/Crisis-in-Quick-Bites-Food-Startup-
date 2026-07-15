@@ -32,7 +32,7 @@ SQL Queries used for cleaning and transformation can be found [HERE](https://git
 
 Targeted SQL Queries for deeper analysis can be found [HERE](https://github.com/bhawna407/Crisis-in-Quick-Bites-Food-Startup-/blob/main/sql-queries/02_analysis_queries.sql).
 
-**Data Structure & Initial Checks** Quick Bites’ database structure, as illustrated in the model view, consists of 6 tables: Dim_Hotels, Fact_Bookings, Dim_Date, Dim_Rooms, Fact_Aggregated_Bookings, Dim_Customers, with a total row count of 508,627 records.
+**Data Structure & Initial Checks** Quick Bites’ database structure, as illustrated in the model view, consists of 6 tables: dim_customer, dim_delivery_partner, dim_menu_item, dim_restaurant, fact_delivery_performance, fact_order_items, fact_orders, fact_ratings with a total row count of 1,195,610 records.
 
 Executive Summary
 
