@@ -28,7 +28,7 @@ An interactive Power BI Dashboard (as shown in the screenshots) can be downloade
 
 The SQL Queries utilized for inspection and validation can be found [HERE].
 
-SQL Queries used for cleaning and transformation can be found [HERE].
+SQL Queries used for cleaning and transformation can be found [HERE](https://github.com/bhawna407/Crisis-in-Quick-Bites-Food-Startup-/blob/main/sql-queries/01_data_cleaning_transformation.sql).
 
 Targeted SQL Queries for deeper analysis can be found [HERE].
 
